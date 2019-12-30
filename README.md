@@ -1,4 +1,4 @@
-![](img/logo.png)
+![](imgs/logo.png)
 
 <br/>
 
@@ -62,3 +62,27 @@ npm install --save-dev gulp gulp-sass browser-sync
  ```
 gulp watch
  ```
+
+## Desktop Screenshots
+
+### Home and Culture Pages
+![](imgs/homeCulture.png)
+![](imgs/homeCulture1.png)
+![](imgs/homeCulture2.png)
+
+### Wildife Page
+![](imgs/wildlife.png)
+![](imgs/wildlife1.png)
+![](imgs/wildlife2.png)
+
+### Landmarks and Sports Pages
+![](imgs/landmarksSports.png)
+![](imgs/landmarksSports1.png)
+![](imgs/landmarksSports2.png)
+
+### Contact Page
+![](imgs/landmarksSports1.png)
+![](imgs/contact.png)
+![](imgs/contact1.png)
+![](imgs/contact2.png)
+
