@@ -3,7 +3,7 @@
 <br/>
 
 ## Introduction
-#### 
+#### This is the raw responsive 12 point grid used for the [Experience Canada Project](https://experiencecanada.web.app/). Throughout this README you will find instructions on how to clone this repository, configure the npm settings and use browser-sync to automatically update the browser whenever a change is applied and saved. In addition to this, screenshots are visible further down to evidence what this bare bones grid looks like when viewed on both desktop and mobile.
 
 <br/>
 
@@ -34,6 +34,7 @@ node -v
 npm init
 sudo npm install gulp-cli -g
  ```
+###### When installing npm various questions will be asked. Press "enter" to skip them. Afterwards a package.json file will automatically be generated.
 ###### While attempting to install gulp-cli npm will ask for a "password", which is used for the user's computer.
  
 ###### Type...
@@ -56,7 +57,7 @@ npm install --save-dev gulp gulp-sass browser-sync
    <br />
 
 ### Step Five:
-###### Type following into the terminal to pull up the website using your localhost with the use of browser-sync
+###### Once all the above is done type following into the terminal to pull up the website using your localhost with the use of browser-sync
 
  ```
 gulp watch
