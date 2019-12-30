@@ -63,6 +63,8 @@ npm install --save-dev gulp gulp-sass browser-sync
 gulp watch
  ```
 
+<br/>
+
 ## Desktop Screenshots
 
 ### Home and Culture Pages
@@ -81,8 +83,32 @@ gulp watch
 ![](imgs/landmarksSports2.png)
 
 ### Contact Page
-![](imgs/landmarksSports1.png)
 ![](imgs/contact.png)
 ![](imgs/contact1.png)
 ![](imgs/contact2.png)
 
+<br/>
+
+## Mobile Screenshots
+
+### Home and Culture Pages
+![](imgs/homeMobile1.png)
+![](imgs/homeMobile2.png)
+
+### Wildife Page
+![](imgs/wildlifeMobile1.png)
+![](imgs/wildlifeMobile2.png)
+![](imgs/wildlifeMobile3.png)
+![](imgs/wildlifeMobile4.png)
+![](imgs/wildlifeMobile5.png)
+![](imgs/wildlifeMobile6.png)
+
+### Landmarks and Sports Pages
+![](imgs/landmarksMobile1.png)
+![](imgs/landmarksMobile2.png)
+![](imgs/landmarksMobile3.png)
+
+### Contact Page
+![](imgs/contactMobile1.png)
+![](imgs/contactMobile2.png)
+![](imgs/contactMobile3.png)
