@@ -8,7 +8,6 @@
 <br/>
 
 ## Configuration 
-#### 
 
 ### Step One
 ###### Open Command line on either Windows or Mac and type in the following to clone the repo onto your desktop:
@@ -30,11 +29,12 @@ node -v
 ###### in the terminal to ensure the latest version has been installed. 
 
 ### Step Three 
-###### Type the following into the terminal to install gulp-cli globally
+###### Type the following into the terminal to initialize npm and install gulp-cli globally
  ```
+npm init
 sudo npm install gulp-cli -g
  ```
-###### After typing in the above code npm will ask for a "password", which is used for your computer.
+###### While attempting to install gulp-cli npm will ask for a "password", which is used for the user's computer.
  
 ###### Type...
 
