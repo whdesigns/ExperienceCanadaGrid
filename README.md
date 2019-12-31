@@ -15,7 +15,7 @@
 ```
 cd ~/Desktop/
 
-git clone https://github.com/whdesigns/12-point-grid 
+git clone https://github.com/whdesigns/ExperienceCanadaGrid 
 ```
 <br/>
 
@@ -28,13 +28,15 @@ node -v
  ```
 ###### in the terminal to ensure the latest version has been installed. 
 
+<br/>
+
 ### Step Three 
 ###### Type the following into the terminal to initialize npm and install gulp-cli globally
  ```
 npm init
 sudo npm install gulp-cli -g
  ```
-###### When installing npm various questions will be asked. Press "enter" to skip them. Afterwards a package.json file will automatically be generated.
+###### When installing npm various questions will be asked. Press "enter" to skip them. Afterwards a package.json file will automatically be generated or updated.
 ###### While attempting to install gulp-cli npm will ask for a "password", which is used for the user's computer.
  
 ###### Type...
@@ -57,13 +59,14 @@ npm install --save-dev gulp gulp-sass browser-sync
    <br />
 
 ### Step Five:
-###### Once all the above is done type following into the terminal to pull up the website using your localhost with the use of browser-sync
+###### Type the following into the terminal to pull up the website using your localhost with the use of browser-sync
 
  ```
 gulp watch
  ```
+###### Now whenever something is updated and saved the browser will automatically refresh to display these changes. 
 
-<br/>
+  <br /> 
 
 ## Desktop Screenshots
 
