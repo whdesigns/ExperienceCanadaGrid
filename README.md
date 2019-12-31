@@ -72,15 +72,21 @@ gulp watch
 ![](imgs/homeCulture1.png)
 ![](imgs/homeCulture2.png)
 
+<br/>
+
 ### Wildife Page
 ![](imgs/wildlife.png)
 ![](imgs/wildlife1.png)
 ![](imgs/wildlife2.png)
 
+<br/>
+
 ### Landmarks and Sports Pages
 ![](imgs/landmarksSports.png)
 ![](imgs/landmarksSports1.png)
 ![](imgs/landmarksSports2.png)
+
+<br/>
 
 ### Contact Page
 ![](imgs/contact.png)
@@ -95,6 +101,8 @@ gulp watch
 ![](imgs/homeMobile1.png)
 ![](imgs/homeMobile2.png)
 
+<br/>
+
 ### Wildife Page
 ![](imgs/wildlifeMobile1.png)
 ![](imgs/wildlifeMobile2.png)
@@ -103,10 +111,14 @@ gulp watch
 ![](imgs/wildlifeMobile5.png)
 ![](imgs/wildlifeMobile6.png)
 
+<br/>
+
 ### Landmarks and Sports Pages
 ![](imgs/landmarksMobile1.png)
 ![](imgs/landmarksMobile2.png)
 ![](imgs/landmarksMobile3.png)
+
+<br/>
 
 ### Contact Page
 ![](imgs/contactMobile1.png)
